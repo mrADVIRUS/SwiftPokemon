@@ -12,6 +12,7 @@
 		EEF224461F1519AD00828EC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEF224441F1519AD00828EC7 /* Main.storyboard */; };
 		EEF224481F1519AD00828EC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEF224471F1519AD00828EC7 /* Assets.xcassets */; };
 		EEF2244B1F1519AD00828EC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEF224491F1519AD00828EC7 /* LaunchScreen.storyboard */; };
+		EEF224531F1644C800828EC7 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = EEF224521F1644C800828EC7 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EEF224471F1519AD00828EC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEF2244A1F1519AD00828EC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEF2244C1F1519AD00828EC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEF224521F1644C800828EC7 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EEF224421F1519AD00828EC7 /* ViewController.swift */,
 				EEF224441F1519AD00828EC7 /* Main.storyboard */,
 				EEF224471F1519AD00828EC7 /* Assets.xcassets */,
+				EEF224521F1644C800828EC7 /* pokemon.csv */,
 				EEF224491F1519AD00828EC7 /* LaunchScreen.storyboard */,
 				EEF2244C1F1519AD00828EC7 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				EEF2244B1F1519AD00828EC7 /* LaunchScreen.storyboard in Resources */,
 				EEF224481F1519AD00828EC7 /* Assets.xcassets in Resources */,
+				EEF224531F1644C800828EC7 /* pokemon.csv in Resources */,
 				EEF224461F1519AD00828EC7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				EEF224511F1519AD00828EC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
